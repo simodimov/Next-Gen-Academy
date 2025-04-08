@@ -78,7 +78,7 @@
     #parva_novina {
        
         padding-top: 210px; /* Add padding to account for the navbar height */
-        background-color: red;
+        
         height: auto; /* Allow the height to adjust based on content */
         display: flex;
         flex-direction: column;
